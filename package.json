@@ -1,0 +1,25 @@
+{
+  "name": "@example/basics",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build && subfont -ir --no-fallbacks --silent --root dist",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "devDependencies": {
+    "@astrojs/image": "^0.3.6",
+    "@astrojs/rss": "^1.0.0",
+    "@astrojs/sitemap": "^1.0.0",
+    "@astrojs/tailwind": "^1.0.0",
+    "@julian_cataldo/astro-analytics": "^0.11.5",
+    "@tailwindcss/typography": "^0.5.4",
+    "astro": "^1.1.1",
+    "astro-icon": "^0.7.3",
+    "reading-time": "^1.5.0",
+    "subfont": "^6.10.0",
+    "tailwindcss": "^3.1.8"
+  }
+}
