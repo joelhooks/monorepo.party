@@ -23,7 +23,7 @@ A monorepo allows for your projects and code to be collocated, meaning it's ther
 
 Does a monorepo solve all of these problems? No.
 
-It's just a tool, but it's a pretty good on!
+It's just a tool, but it's a pretty good one!
 
 ### Monorepo Guides
 
