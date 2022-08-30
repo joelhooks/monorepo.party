@@ -56,7 +56,7 @@ These are example monorepos using Turborepo.
 * [cal.com](https://github.com/calcom/cal.com) this is a large scale well put together monorepo that covers a lot of bases using Turborepo. It's well worth study and solves a lot of difficult production problems around building and testing an application at scale. One unique aspect is that the repository also includes some private packages that are imported using git submodules which keeps those packages/apps internal for business reasons while allowing the core to be open source.
 * [Turbo Kitchen Sink Example](https://github.com/vercel/turborepo/tree/main/examples/kitchen-sink) is an official Turbo example that covers a lot of ground and is a great reference. It imports a next.js application and a remix application as well as some other "
 nice to have" features to explore.
-* [Skill Recordings Products] is a monorepo maintained by the folks that produce egghead.io, Epic React, Just JavaScript, and Testing Accessibility among others and features next.js and remix applications and a library of packages that support delivering developer education products.
+* [Skill Recordings Products](https://github.com/skillrecordings/products) is a monorepo maintained by the folks that produce egghead.io, Epic React, Just JavaScript, and Testing Accessibility among others and features next.js and remix applications and a library of packages that support delivering developer education products.
 * [Turborepos with Over 100 ⭐️s](https://joel.dev/top-turbo) is a spreadsheet featuring all 180+ repos on github that have over 100 stars and depend on Turborepo. The odds are that if you need some configuration or structure you'll be able to find it in here.
 
 
