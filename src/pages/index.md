@@ -9,6 +9,8 @@ date: "09 Aug 2022"
 
 This is a collection of curated monorepo resource. It's maintained by [Joel Hooks](https://twitter.com/jhooks) to support learners in a monorepo workshop.
 
+You can [edit this page it's on github](https://github.com/joelhooks/monorepo.party/edit/main/src/pages/index.md).
+
 ## What are monorepos?
 
 A monorepo is a single repository used to house multiple often related applications, utilities, libraries, and tools.
