@@ -39,7 +39,7 @@ Created by Jared Palmer and now part of Vercel, Turborepo is a lightweight task 
 
 ### [Nx](https://nx.dev/)
 
-Mx is a full-featured monorepo powerhouse that does a lot more than just running tasks. Nx provides a mature tool with powerful code generation, plugins, and other integrations that are very useful.
+Nx is a full-featured monorepo powerhouse that does a lot more than just running tasks. Nx provides a mature tool with powerful code generation, plugins, and other integrations that are very useful.
 
 ## Monorepo Concept Map
 
