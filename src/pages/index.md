@@ -11,6 +11,8 @@ This is a collection of curated monorepo resource. It's maintained by [Joel Hook
 
 You can [edit this page it's on github](https://github.com/joelhooks/monorepo.party/edit/main/src/pages/index.md).
 
+## Table of Contents
+
 ## What are monorepos?
 
 A monorepo is a single repository used to house multiple often related applications, utilities, libraries, and tools.
@@ -24,6 +26,14 @@ A monorepo allows for your projects and code to be collocated, meaning it's ther
 Does a monorepo solve all of these problems? No.
 
 It's just a tool, but it's a pretty good one!
+
+### Choosing a Package Manager
+
+There are three primary choices for managing package managers in the node ecosystem.
+
+* [npm](https://docs.npmjs.com/cli/v8/commands/npm) - is the primary registry for node packages and also has a CLI that is installed by default with node. There might be reasons to choose this package manager for a monorepo, but we won't.
+* [yarn](https://yarnpkg.com/) - mature and safe with good workspace options and you could use it with no other tools to manage your monorepo. 
+* 🎉 [pnpm](https://pnpm.io/) - "performant npm" is built to be performant in monorepos and has nice ergonomics so this is our choice for now. [Here's an overview video.](https://www.youtube.com/watch?v=d1E31WPR70g)
 
 ### Monorepo Guides
 
