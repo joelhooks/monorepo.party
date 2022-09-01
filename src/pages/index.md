@@ -39,9 +39,25 @@ You can maintain a monorepo without tools, but you probably don't want to.
 
 Created by Jared Palmer and now part of Vercel, Turborepo is a lightweight task runner, and not much else. This is generally considered a "feature" and one of the design considerations for Turbo was how it can "do less" in the space and stay out of your way.
 
+[Turbo Quick Start](https://turborepo.org/docs/getting-started)
+
+Run the generator:
+
+```sh
+npx npx create-turbo@latest
+```
+
 ### [Nx](https://nx.dev/)
 
 Nx is a full-featured monorepo powerhouse that does a lot more than just running tasks. Nx provides a mature tool with powerful code generation, plugins, and other integrations that are very useful.
+
+[Nx Core Tutorial](https://nx.dev/core-tutorial/01-create-blog)
+
+Run the generator:
+
+```sh
+npx create-nx-workspace@latest
+```
 
 ## Monorepo Concept Map
 
