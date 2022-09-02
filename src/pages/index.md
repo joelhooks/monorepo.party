@@ -51,7 +51,7 @@ mature and safe with good workspace options and you could use it with no other t
 
 "performant npm" is built to be performant in monorepos and has nice ergonomics so this is our choice for now. [Here's an overview video.](https://www.youtube.com/watch?v=d1E31WPR70g)
 
-![drake loves pnpm and not yarn or npm](/assets/drake-loves-pnpm.png)
+![drake loves pnpm and not yarn or npm](https://res.cloudinary.com/joelhooks-com/image/fetch/h_300,w_300/f_auto/https://www.monorepo.party/assets/drake-loves-pnpm.png)
 
 ## Monorepo Guides
 
