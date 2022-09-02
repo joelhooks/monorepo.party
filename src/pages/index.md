@@ -35,7 +35,7 @@ It's just a tool, but it's a pretty good one!
 
 [open in miro](https://miro.com/app/board/uXjVPfWXh7E=/)
 
-### Choosing a Package Manager
+## Choosing a Package Manager
 
 There are three primary choices for managing package managers in the node ecosystem.
 
@@ -43,7 +43,7 @@ There are three primary choices for managing package managers in the node ecosys
 * [yarn](https://yarnpkg.com/) - mature and safe with good workspace options and you could use it with no other tools to manage your monorepo. 
 * 🎉 [pnpm](https://pnpm.io/) - "performant npm" is built to be performant in monorepos and has nice ergonomics so this is our choice for now. [Here's an overview video.](https://www.youtube.com/watch?v=d1E31WPR70g)
 
-### Monorepo Guides
+## Monorepo Guides
 
 [monorepo.tools](https://monorepo.tools/) is an excellent intro into the world of monorepos from the folks at [nrwl](https://nrwl.io/). It gives a balanced look at the current landscape and provides a feature comparison across different tooling for monorepos. nrwl created and maintains the awesome Nx tool which is a great option for automating most monorepo tasks.
 
