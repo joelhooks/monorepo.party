@@ -9,6 +9,8 @@ date: "09 Aug 2022"
 
 This is a collection of curated monorepo resource. It's maintained by [Joel Hooks](https://twitter.com/jhooks) to support learners in a monorepo workshop.
 
+[Github Repo for Cascadiajs 2022 Workshop](https://github.com/joelhooks/monorepo-workshop-cascadia-2022)
+
 You can [edit this page it's on github](https://github.com/joelhooks/monorepo.party/edit/main/src/pages/index.md).
 
 ## Table of Contents
