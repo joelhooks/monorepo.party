@@ -29,6 +29,12 @@ Does a monorepo solve all of these problems? No.
 
 It's just a tool, but it's a pretty good one!
 
+### Monorepo Concept Map
+
+[![a visual diagram of a selection of concepts in a monorepo](/assets/monorepo-concept-map.png)](https://miro.com/app/board/uXjVPfWXh7E=/)
+
+[open in miro](https://miro.com/app/board/uXjVPfWXh7E=/)
+
 ### Choosing a Package Manager
 
 There are three primary choices for managing package managers in the node ecosystem.
@@ -70,12 +76,6 @@ Run the generator:
 ```sh
 npx create-nx-workspace@latest
 ```
-
-## Monorepo Concept Map
-
-[![a visual diagram of a selection of concepts in a monorepo](/assets/monorepo-concept-map.png)](https://miro.com/app/board/uXjVPfWXh7E=/)
-
-[open in miro](https://miro.com/app/board/uXjVPfWXh7E=/)
 
 ## Monorepo Examples
 
