@@ -11,7 +11,7 @@ This is a collection of curated monorepo resource. It's maintained by [Joel Hook
 
 [Github Repo for Cascadiajs 2022 Workshop](https://github.com/joelhooks/monorepo-workshop-cascadia-2022)
 
-You can [edit this page it's on github](https://github.com/joelhooks/monorepo.party/edit/main/src/pages/index.md).
+You can [edit this page on github](https://github.com/joelhooks/monorepo.party/edit/main/src/pages/index.md).
 
 ## Table of Contents
 
@@ -50,6 +50,8 @@ mature and safe with good workspace options and you could use it with no other t
 ### 🎉 [pnpm](https://pnpm.io/)
 
 "performant npm" is built to be performant in monorepos and has nice ergonomics so this is our choice for now. [Here's an overview video.](https://www.youtube.com/watch?v=d1E31WPR70g)
+
+![drake loves pnpm and not yarn or npm](/assets/drake-loves-pnpm.png)
 
 ## Monorepo Guides
 
