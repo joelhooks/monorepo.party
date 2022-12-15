@@ -19,7 +19,7 @@ You can [edit this page on github](https://github.com/joelhooks/monorepo.party/e
 
 A monorepo is a single repository used to house multiple often related applications, utilities, libraries, and tools.
 
-In a lot of ways a monorepo is the opposite of a monolith and a reaction the the explosion of micro-services that followed the traditional monolithic structure.
+In a lot of ways a monorepo is the opposite of a monolith.
 
 At it's simplest form a monorepo is an software architecture decision on how projects and code get organized.
 
