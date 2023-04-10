@@ -72,7 +72,7 @@ Created by Jared Palmer and now part of Vercel, Turborepo is a lightweight task 
 Run the generator:
 
 ```sh
-npx npx create-turbo@latest
+npx create-turbo@latest
 ```
 
 ### [Nx](https://nx.dev/)
